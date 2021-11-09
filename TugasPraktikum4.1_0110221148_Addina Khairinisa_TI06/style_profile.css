@@ -1,0 +1,57 @@
+    .art{
+        float: left;
+        width: 100%;
+        padding: 5px;
+    }
+    .prof{
+        float: left;
+        width: 40%;
+        padding: 5px;
+    }
+    .categ{
+        float: right;
+        padding: 10px;
+    }
+    .img{
+        float: left;
+        width: 20%;
+        padding: 5px;
+    }
+    .img2{
+        float: left;
+        width: 50%;
+    }
+    .arc{
+        float: left;
+        width: 98%;
+        text-align: justify;
+        padding: 5px;
+    }
+    .fieldset1{
+        border: 1px solid; 
+        width: 60%;
+        background-color: #B0C4DE
+    }
+    .fieldset2{
+        width: 300; 
+        border: 1px solid; 
+        float: left;
+    }
+    .fieldset3{
+        width: 130%; 
+        height: 30%; 
+        border: 1px solid; 
+        float: left;
+    }
+    .footer{
+        float: left;
+        width: 100%;
+        padding: 5px;
+        display: flex;
+    }
+    .fieldset4{
+        width: 90%; 
+        height: 91.5%; 
+        border: 1px solid; 
+        float: left;
+    }
