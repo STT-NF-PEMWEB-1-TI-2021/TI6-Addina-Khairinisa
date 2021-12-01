@@ -1,0 +1,40 @@
+.div1{
+    background-color: skyblue;
+    height: 90vh;
+    width: 120vh;
+    padding: 1em;
+}
+.box2{  
+    background-color: steelblue;
+    width: 113vh;
+    height: 10vh;
+    margin: 10px;
+    padding: 1em;
+}
+aside{  
+    background-color: dodgerblue;
+    width: 27vh;
+    margin: 10px;
+    padding: 1em;
+}
+.box4{  
+    background-color: dodgerblue;
+    flex: 0 0 40vw;
+    order: 2;
+    margin: 10px;
+    padding: 1em;
+    text-align: center;
+
+}
+.box5{
+    display: flex;
+    height: 47vh;
+    width: 10em;
+    align-items: flex-end;
+}  
+.box6 {
+    margin: 2;
+    padding: 1em;
+    font-size: 9;
+    justify-content: center;
+}
